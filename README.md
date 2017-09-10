@@ -4,7 +4,7 @@ Matlab/Octave code of GEMsplice - Integrating splice-isoform expression into gen
 Please note this code has been tested with Matlab R2016b and Octave 4.0.3, with the GLPK solver.
 
 If you use this code, please cite:
-"C. Angione - Integrating splice-isoform expression into genome-scale models characterizes breast cancer metabolism"
+"C. Angione - Integrating splice-isoform expression into genome-scale models characterizes breast cancer metabolism, Bioinformatics, btx562, 2017"
 
 
 --------------------
@@ -90,4 +90,6 @@ This is free software for academic use: you can redistribute it and/or modify it
 
 This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Public License for more details.
 
+
+Claudio Angione
 July 2017
