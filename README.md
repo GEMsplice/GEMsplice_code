@@ -1,4 +1,3 @@
-# GEMsplice_source_code
 Matlab/Octave code of GEMsplice - Integrating splice-isoform expression into genome-scale models characterizes breast cancer metabolism
 
 Please note this code has been tested with Matlab R2016b and Octave 4.0.3, with the GLPK solver.
