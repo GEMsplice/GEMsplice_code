@@ -13,7 +13,7 @@
 % If CMAP_OUT is given, the function returns a matrix.
 % If CMAP_OUT is not given, colormap is set as specified by input arguments.
 %
-% NOTE: Please download the excellent RGB.m code from Kristj·n JÛnasson, University of Iceland.
+% NOTE: Please download the excellent RGB.m code from Kristj√°n J√≥nasson, University of Iceland.
 % Colors may then be specified as 'steelblue', 'forestgreen' etc. in stead of RGB triplets.
 % See: http://www.mathworks.com/matlabcentral/fileexchange/24497-rgb-triple-of-color-name-version-2
 %
